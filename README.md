@@ -1,7 +1,7 @@
 # Unimarketbd
 A Web Based E-commerce Application(B2C) using PHP
 Steps:
-1. Download "Unimarketbd.zip"
+1. Download "unimarketbd.zip"
 2. Unzip it
 3. Install XAMPP
 4. Copy the file "Unimarketbd" and paste into this path C:\xampp\htdocs
