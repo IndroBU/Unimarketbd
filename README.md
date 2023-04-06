@@ -1,5 +1,5 @@
 # Unimarketbd
-A Web Based E-commerce Application(B2C)
+A Web Based E-commerce Application(B2C) using PHP
 Steps:
 1. Download "Unimarketbd.zip"
 2. Unzip it
